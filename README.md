@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/abhijit-hota/netscaper.svg)](https://pkg.go.dev/github.com/abhijit-hota/netscaper)
+
 ## Netscaper
 
 ## What is it?
@@ -43,7 +45,7 @@ func main() {
 	} 
 }
 ```
-Check the API reference for more.
+Check the [API reference](https://pkg.go.dev/github.com/abhijit-hota/netscaper) for more.
 
 ### Notes & References
 
