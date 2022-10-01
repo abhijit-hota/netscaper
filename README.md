@@ -2,7 +2,7 @@
 
 ## Netscaper
 
-## What is it?
+### What is it?
 
 A Netscape Bookmark File parser. In case you don't know what that is, it's the `bookmarks.html` browsers blurt out when you **`Export bookmarks as HTML`**.
 
